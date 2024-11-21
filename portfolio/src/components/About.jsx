@@ -74,23 +74,26 @@ export default function About() {
             </h2>
             
             <div className="space-y-6 text-gray-600">
-              <p>
-                Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur
-                arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa,
-                convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan
-                tincidunt.
-              </p>
+              
+              
               
               <p>
-                Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit
-                tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam
-                vehicula elementum sed sit amet dui. porttitor at sem.
+              "I am a dedicated and passionate Frontend Developer with a strong focus
+               on crafting responsive, intuitive, and visually captivating user interfaces. 
+              With expertise in modern frameworks like React,typescript and a deep understanding of
+               HTML, CSS, and JavaScript, 
+
               </p>
-              
               <p>
-                Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in,
-                elementum id enim. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet
-                elit, eget tincidunt nibh pulvinar a.
+              I build dynamic web applications that combine performance with aesthetic appeal. 
+              My approach emphasizes writing clean, maintainable, and efficient code while ensuring 
+              seamless user experiences across devices. 
+              </p>
+        
+                <p>
+                By collaborating closely with designers and backend teams, I excel at bridging the gap
+               between design and functionality, turning creative concepts into fully functional and 
+               engaging digital solutions.
               </p>
             </div>
           </div>
